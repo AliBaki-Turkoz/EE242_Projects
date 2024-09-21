@@ -1,0 +1,2 @@
+Merhaba hocam,
+Ben birini kendim birini de eski proje kodumdan gerksiz yerleri silip gerekli kodları yazarak oluşturduğum iki ayrı proje yükledim. hwsolution4 olan eski kodun güncellenmiş hali, diğeri ise sıfırdan açtığım bir proje. Fakat ikisi de ilerleme açısından aynı yerde. Bilginiz olsun. İlginiz için teşekkürler.
